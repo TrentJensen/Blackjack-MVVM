@@ -1,0 +1,9 @@
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.Model\bin\Debug\BlackJackMVVM.Model.dll
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.Model\bin\Debug\BlackJackMVVM.Model.pdb
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.Model\obj\Debug\BlackJackMVVM.Model.dll
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.Model\obj\Debug\BlackJackMVVM.Model.pdb
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.Model\bin\Debug\BlackJackMVVM.Model.dll
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.Model\bin\Debug\BlackJackMVVM.Model.pdb
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.Model\obj\Debug\BlackJackMVVM.Model.csprojResolveAssemblyReference.cache
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.Model\obj\Debug\BlackJackMVVM.Model.dll
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.Model\obj\Debug\BlackJackMVVM.Model.pdb

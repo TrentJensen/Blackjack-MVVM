@@ -1,0 +1,13 @@
+﻿<Application x:Class="BlackJackMVVM.App.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BlackJackMVVM.App"
+             xmlns:ViewModel="clr-namespace:BlackJackMVVM.App.ViewModel"
+             xmlns:converter="clr-namespace:BlackJackMVVM.App.Converter"
+             StartupUri="View/MainWindow.xaml">
+    <Application.Resources>
+        <BooleanToVisibilityConverter x:Key="localBooltoVisibilityConverter" />
+        <converter:ImageConverter x:Key="localImageConverter" />
+        <ViewModel:MainWindowVM x:Key="MainWindowVM" />
+    </Application.Resources>
+</Application>

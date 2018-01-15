@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackMVVM.App", "BlackJackMVVM.App\BlackJackMVVM.App.csproj", "{0682EBC1-4EF9-4CA8-91A6-3787DA76DC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackMVVM.Model", "BlackJackMVVM.Model\BlackJackMVVM.Model.csproj", "{5C314A8D-D956-47C0-A297-D79D60159ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0682EBC1-4EF9-4CA8-91A6-3787DA76DC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0682EBC1-4EF9-4CA8-91A6-3787DA76DC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0682EBC1-4EF9-4CA8-91A6-3787DA76DC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0682EBC1-4EF9-4CA8-91A6-3787DA76DC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C314A8D-D956-47C0-A297-D79D60159ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C314A8D-D956-47C0-A297-D79D60159ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C314A8D-D956-47C0-A297-D79D60159ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C314A8D-D956-47C0-A297-D79D60159ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

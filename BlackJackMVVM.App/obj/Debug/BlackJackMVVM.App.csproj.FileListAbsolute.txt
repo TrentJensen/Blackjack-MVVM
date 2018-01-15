@@ -1,0 +1,36 @@
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.App.exe.config
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.App.exe
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.App.pdb
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.csprojResolveAssemblyReference.cache
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\View\MainWindow.g.cs
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\App.g.cs
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App_MarkupCompile.cache
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App_MarkupCompile.lref
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\View\MainWindow.baml
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.g.resources
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.Properties.Resources.resources
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.csproj.GenerateResource.Cache
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.exe
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.pdb
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.Model.dll
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.Model.pdb
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\jensda\documents\visual studio 2015\Projects\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\App.baml
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.App.exe.config
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.exe
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.pdb
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.App.exe
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.App.pdb
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.Model.dll
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\bin\Debug\BlackJackMVVM.Model.pdb
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.csprojResolveAssemblyReference.cache
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\View\MainWindow.g.cs
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\App.g.cs
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App_MarkupCompile.cache
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App_MarkupCompile.lref
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\App.baml
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\View\MainWindow.baml
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.g.resources
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.Properties.Resources.resources
+C:\Users\jensda\Downloads\Learning\BlackJackMVVM.App\BlackJackMVVM.App\obj\Debug\BlackJackMVVM.App.csproj.GenerateResource.Cache
